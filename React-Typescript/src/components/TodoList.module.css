@@ -1,0 +1,12 @@
+.column {
+    flex: 1;
+    background: #f9fafb;
+    border: 1px dashed #e5e7eb;
+    border-radius: 14px;
+    padding: 16px;
+    min-height: 260px;
+  }
+  .title { margin: 0 0 8px; font-size: 18px; }
+  .list { display: flex; flex-direction: column; gap: 10px; min-height: 200px; }
+  .over { background: #eef2ff; }
+  

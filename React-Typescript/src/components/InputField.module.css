@@ -1,0 +1,25 @@
+.input {
+    display: flex;
+    gap: 8px;
+    width: 100%;
+    margin: 16px 0;
+  }
+  .inputBox {
+    flex: 1;
+    padding: 12px 14px;
+    border-radius: 10px;
+    border: 1px solid #e5e7eb;
+    outline: none;
+    font-size: 16px;
+  }
+  .inputSubmit {
+    padding: 12px 16px;
+    border-radius: 10px;
+    border: none;
+    background: #2563eb;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .inputSubmit:hover { opacity: 0.9; }
+  
